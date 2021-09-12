@@ -1,0 +1,3 @@
+Rust coding competition notes:
+
+Test input is passed via stdin
